@@ -23,7 +23,7 @@ VELOCIDAD_DE_LA_LUZ = 299792458 #CONSTANTE
 
 String : str = "Cadena de Texto"
 Numero_Entero : int = 14
-Numero_flotante : Float = 13.9
+Numero_flotante : float = 13.9
 Boleano_True : bool = True
 Boleano_False : bool = False
 
